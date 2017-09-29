@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WTAudioTransport_Example' do
+  pod 'WTAudioTransport', :path => '../'
+
+  target 'WTAudioTransport_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
