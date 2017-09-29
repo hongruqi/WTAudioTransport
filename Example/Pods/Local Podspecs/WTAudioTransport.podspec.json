@@ -1,0 +1,22 @@
+{
+  "name": "WTAudioTransport",
+  "version": "0.1.0",
+  "summary": "A short description of WTAudioTransport.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Walter/WTAudioTransport",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Walter": "hongru.qi@quvideo.com"
+  },
+  "source": {
+    "git": "https://github.com/Walter/WTAudioTransport.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WTAudioTransport/Classes/**/*"
+}
